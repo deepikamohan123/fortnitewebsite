@@ -1,0 +1,220 @@
+.home-container{
+  background-color: black;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.heading-section{
+  text-align: center;
+  color: #FFFFFF;
+}
+
+
+
+.epic-games{
+  width: 1375px;
+height: 96px;
+top: 147px;
+left: 273px;
+text-align: center;
+margin: 50px;
+font-family: 'Roboto';
+font-size: 45px;
+font-weight: 200;
+line-height: 48px;
+color: #FFFFFF;
+
+}
+.fortnite{
+  width: 1415px;
+height: 500px;
+top: 293px;
+left: 253px;
+margin: 50px;
+
+}
+
+.paragraph{
+  width: 1231px;
+height: 81px;
+top: 843px;
+left: 345px;
+opacity: 0.8px;
+font-family: 'Poppins';
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: center;
+margin: 50px;
+color: #FFFFFF;
+
+
+}
+.visit{
+  width: 416px;
+height: 60px;
+top: 979px;
+left: 752px;
+color: black;
+background-color: #FFFFFF;
+align-items: center;
+margin-top: 0px;
+margin-left: 600px;
+}
+
+.first1{
+  margin: 50px;
+}
+.second2{
+  margin-left: 500px;
+  margin-top: -500px;
+}
+.third3{
+  margin: 50px;
+  margin-left: 950px;
+  margin-top: -470px;
+}
+
+.first-container{
+  Width:400px;
+Height:
+381px;
+Top:
+1215px;
+Left:
+277px;
+
+}
+.second-container{
+  width: 400px;
+height: 350px;
+top: 1231px;
+left: 611px;
+
+}
+.third-container{
+  width: 400px;
+height: 369px;
+top: 1221px;
+left: 1111px;
+
+}
+
+.first{
+  width: 347px;
+height: 66px;
+top: 1612px;
+left: 389px;
+font-family: 'Roboto';
+font-size: 19px;
+font-weight: 300;
+line-height: 22px;
+letter-spacing: 0.02em;
+text-align: center;
+color: #FFFFFF;
+
+}
+.second{
+  width: 347px;
+height: 66px;
+top: 1612px;
+left: 787px;
+font-family: 'Roboto';
+font-size: 19px;
+font-weight: 300;
+line-height: 22px;
+letter-spacing: 0.02em;
+text-align: center;
+color: #FFFFFF;
+
+
+}
+.third{
+  width: 347px;
+height: 66px;
+top: 1612px;
+left: 1185px;
+font-family: 'Roboto';
+font-size: 19px;
+font-weight: 300;
+line-height: 22px;
+letter-spacing: 0.02em;
+text-align: center;
+color: #FFFFFF;
+
+}
+
+.conclusion{
+  width: 301px;
+height: 48px;
+top: 1878px;
+left: 792px;
+font-family: 'Roboto';
+font-size: 42px;
+font-weight: 200;
+line-height: 48px;
+letter-spacing: 0px;
+text-align: center;
+color: white;
+margin: 70px;
+}
+
+.our-core{
+  width: 1142px;
+height: 81px;
+top: 1950px;
+left: 389px;
+opacity: 0.8px;
+font-family: 'Poppins';
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: center;
+color: #FFFFFF;
+margin: 70px;
+max-width: 50px;
+}
+
+h6{
+  width: 113px;
+height: 57px;
+top: 2139px;
+left: 544px;
+font-family: 'Roboto';
+font-size: 80px;
+font-weight: 200;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: center;
+color: #FFFFFF;
+margin: 10px;
+
+}
+p {
+  width: 158px;
+  height: 76px;
+  top: 2229px;
+  left: 520px;
+  font-family: 'Roboto';
+font-size: 25px;
+font-weight: 300;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: center;
+color: #FFFFFF;
+margin-top: -20px;
+}
+.first-money{
+  margin: 70px;
+}
+.second-money{
+  margin-left: 280px;
+  margin-top: -200px;
+
+}
+.third-money{
+  margin-left: 550px;
+  margin-top: -150px;
+}
